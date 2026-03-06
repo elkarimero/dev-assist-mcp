@@ -1,0 +1,4 @@
+# Dépendances pour le serveur MCP (en plus de requirements.txt).
+# Nécessite Python >=3.10.
+-r requirements.txt
+mcp>=1.0.0
